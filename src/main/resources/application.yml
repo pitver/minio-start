@@ -1,0 +1,11 @@
+minio:
+    access:
+        name: minioadmin
+        secret: minioadmin
+    buckek:
+        name: test
+    default:
+        folder: /
+    url: http://127.0.0.1:9000
+server:
+    port: 8080
